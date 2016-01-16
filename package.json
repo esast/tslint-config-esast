@@ -1,0 +1,7 @@
+{
+	"name": "tslint-config-esast",
+	"version": "0.0.0",
+	"license": "Unlicense",
+	"repository": "esast/tslint-config-esast",
+	"files": ["tslint.json"]
+}
